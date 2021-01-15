@@ -1,0 +1,9 @@
+/* Connecting fonts */
+@font-face {
+    font-family: "RaleveyRegular";
+    src: url(/fonts/Raleway-Regular.eot),
+    url(/fonts/Raleway-Regular.woff) format('woff'),
+    url(/fonts/Raleway-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
